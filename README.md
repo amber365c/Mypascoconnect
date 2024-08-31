@@ -25,8 +25,8 @@ The application is built using modern web technologies, ensuring both performanc
 
 ## Author
 
-**Amber Gold**
 
+- **Name:** Amber Gold
 - **Email:** amber365gold@outlook.com
 - **Website:** Mypascoconnect
   
@@ -36,6 +36,29 @@ Amber is a seasoned software developer with extensive experience in building web
 
 To get started with Mypascoconnect, follow these steps:
 
-1. **Clone the Repository:**
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/amber365c/mypascoconnect.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd mypascoconnect
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Start the Development Server**:
+   ```bash
+   npm start
+## Contribution Guidelines
+We welcome contributions! To contribute:
+
+- Fork the repository.
+- Create a new branch for your changes.
+- Follow the project's coding standards.
+- Commit your changes and push to your fork.
+- Open a pull request to the main branch.
+Refer to the CONTRIBUTING.md file for detailed guidelines.
+
+## Getting Help
+
+If you need assistance with Mypascoconnect, feel free to reach out to the author via email or open an issue on the GitHub repository.
+
